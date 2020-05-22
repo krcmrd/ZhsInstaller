@@ -9,3 +9,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 echo "trying to set zsh as default"
 sudo usermod -s /usr/bin/zsh usname
 
+#install a font
