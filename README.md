@@ -1,6 +1,6 @@
 # Zhs Installer
 
-Its my first,and probably last one ;P
+Its my first project,and probably last one ;P
 ## About project:
 Its just simple installer for zsh and oh-my-zsh 
 
