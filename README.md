@@ -2,8 +2,9 @@
 
 Its my first project,and probably last one ;P
 ## About project:
-Its just simple installer for zsh and oh-my-zsh 
 
+Its just simple installer for zsh and oh-my-zsh 
+* REMINDER: this script working at debian/kali/parrot
 ## Installation guide:
 You should also install font named (Cascadia) and install it
 
