@@ -2,11 +2,10 @@
 
 Its my first project,and probably last one ;P
 ## About project:
-
 Its just simple installer for zsh and oh-my-zsh 
 * REMINDER: this script working at debian/kali/parrot
 ## Installation guide:
-You should also install font named (Cascadia) and install it
+### Now you can just run script without installation of font But if you want to do it by yourself, you can follow this steps below
 
 [link to font](https://github.com/microsoft/cascadia-code/releases "Cascadia font repo")
 * Download a zip
